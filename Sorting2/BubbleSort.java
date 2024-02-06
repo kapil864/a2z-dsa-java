@@ -2,7 +2,7 @@ package Sorting2;
 
 import java.util.Scanner;
 
-public class InsetionSort {
+public class BubbleSort {
 
     public static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
@@ -10,17 +10,18 @@ public class InsetionSort {
         arr[j] = temp;
     }
 
-    public static void sort(int[] arr, int st,int ed){
-        if(st == ed){
+    public static void sort( int[] arr, int st, int ed){
+
+        if(st==ed){
             return;
         }
-        int idx = st;
-        while(idx > 0  && arr[idx-1] > arr[idx]){
-            swap(arr, idx, idx-1);
-            idx--;
+        
+        for( int i = st; i<ed; i++){
+            if(arr[i]>arr[i+1]){
+                swap(arr, i, i+1);
+            }
         }
-        sort(arr, st+1, ed);
-
+        sort(arr, st, ed-1);
     }
 
     public static void main(String[] args) {
@@ -33,7 +34,7 @@ public class InsetionSort {
         for (int i : arr) {
             System.out.print(i + " ");
         }
-        sort(arr, 0, arr.length);
+        sort(arr, 0, arr.length-1);
         System.out.println();
         for (int i : arr) {
             System.out.print(i+" ");
