@@ -1,0 +1,10 @@
+04-01-2024  Pattern questions from sheet q1 to q6.
+08-01-2024  Pattern questions from q7 to q18
+09-01-2024  Completed questions from q18 to q22 of patterns. Started BasicMaths done q1-q3
+11-01-2024  Started basic recursion questions
+
+Skipped to next month
+
+Starting with Merging algos
+
+05-02-2024 Revised insertion and selection sort algos
