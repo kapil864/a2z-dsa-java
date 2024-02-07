@@ -8,3 +8,7 @@ Skipped to next month
 Starting with Merging algos
 
 05-02-2024 Revised insertion and selection sort algos
+06-02-2024 Implemented Quicksort, mergesort and resursive insertion, bubble sort.
+
+Started with arrays 4
+07-02-2024 Practised question Largest element, Second largest element and isSorted arrays. also Practised a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
