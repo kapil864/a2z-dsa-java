@@ -32,6 +32,8 @@ public class RemoveDuplicates {
         }
     }
 
+    // using two pointer method, one to keep unique elemnts
+    // to check for duplicate element
     private static void optimalRemoveDuplicates(int[] arr) {
         int i =0;
         int j = 1;
