@@ -13,3 +13,4 @@ Starting with Merging algos
 Started with arrays 4
 07-02-2024 Practised question Largest element, Second largest element and isSorted arrays. also Practised a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 08-02-2024 Practiced question to remove duplicate elements, and rotating an array.
+10-02-2024 Linear Serch, Unionof sorted arrays, Find missing number, Max consecutive 1s
