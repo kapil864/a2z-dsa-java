@@ -1,2 +1,2 @@
-1 1 0 0 1 1 
-Max consecutive 1s are  2
+
+Length of maximum sub-array is  3

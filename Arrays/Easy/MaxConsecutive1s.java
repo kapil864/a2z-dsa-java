@@ -34,8 +34,6 @@ public class MaxConsecutive1s {
                 maxCount = tempCount;
             idx++;
         }
-
         return maxCount;
-
     }
 }

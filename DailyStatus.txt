@@ -11,6 +11,8 @@ Starting with Merging algos
 06-02-2024 Implemented Quicksort, mergesort and resursive insertion, bubble sort.
 
 Started with arrays 4
-07-02-2024 Practised question Largest element, Second largest element and isSorted arrays. also Practised a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+07-02-2024 Practised question Largest element, Second largest element and isSorted arrays. also Practiced a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 08-02-2024 Practiced question to remove duplicate elements, and rotating an array.
 10-02-2024 Linear Serch, Unionof sorted arrays, Find missing number, Max consecutive 1s
+11-02-2024 Did no that appear once
+12-02-2024 length of maximum subarry whose sum is equal to k. (positive & zero integers only) and array with negative integers. Completed easy section.
