@@ -56,8 +56,12 @@ public class q1_twoSum {
     }
 
     // optimal approach
-    // using two pointers make a new array with elements and it's indices as one element {element,idex};
+    // using two pointers 
+    // make a new array with elements and it's indices as one element {element,idex};
     // sort the new array according to first element
-    // use two pointers
+    // use two pointers one at the end other at the start
+    // increase start and decrease ed
+    // till their sum is equal to required sum.
+    // and return their indices.
 
 }

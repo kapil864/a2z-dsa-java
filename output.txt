@@ -1,2 +1,1 @@
-
-0 0 1 1 2 2 
+Maximum sum is 6 and length of sub array is 4
