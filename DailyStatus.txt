@@ -11,12 +11,12 @@ Starting with Merging algos
 06-02-2024 Implemented Quicksort, mergesort and resursive insertion, bubble sort.
 
 Started with arrays 4
-07-02-2024 Practised question Largest element, Second largest element and isSorted arrays. also Practiced a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+07-02-2024 Practiced question Largest element, Second largest element and isSorted arrays. also Practiced a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 08-02-2024 Practiced question to remove duplicate elements, and rotating an array.
-10-02-2024 Linear Serch, Unionof sorted arrays, Find missing number, Max consecutive 1s
+10-02-2024 Linear Search, Union of sorted arrays, Find missing number, Max consecutive 1s
 11-02-2024 Did no that appear once
-12-02-2024 length of maximum subarry whose sum is equal to k. (positive & zero integers only) and array with negative integers. Completed easy section.
+12-02-2024 length of maximum sub array whose sum is equal to k. (positive & zero integers only) and array with negative integers. Completed easy section.
 13-02-2024 Done two question one with kadane's algo and other with moore's algo
 14-02-2024 Did questions on best time to buy or sell stock, rearrange elemets by sign.
 15-02-2024 next permutation
-16-02-2024 leader elemets,
+16-02-2024 leader elements, longest consecutive sequence
