@@ -18,3 +18,5 @@ Started with arrays 4
 12-02-2024 length of maximum subarry whose sum is equal to k. (positive & zero integers only) and array with negative integers. Completed easy section.
 13-02-2024 Done two question one with kadane's algo and other with moore's algo
 14-02-2024 Did questions on best time to buy or sell stock, rearrange elemets by sign.
+15-02-2024 next permutation
+16-02-2024 leader elemets,
