@@ -19,4 +19,5 @@ Started with arrays 4
 13-02-2024 Done two question one with kadane's algo and other with moore's algo
 14-02-2024 Did questions on best time to buy or sell stock, rearrange elemets by sign.
 15-02-2024 next permutation
-16-02-2024 leader elements, longest consecutive sequence
+16-02-2024 leader elements, longest consecutive sequence, set matrixZero
+20-02-2024 rotate matrix 90, spiral traversal of matrix, count sub arrys with k sum
