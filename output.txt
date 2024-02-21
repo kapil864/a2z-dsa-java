@@ -1,1 +1,3 @@
-0
+
+Majority elements are 
+11 33 
