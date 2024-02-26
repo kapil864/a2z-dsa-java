@@ -1,3 +1,2 @@
-
-Majority elements are 
-11 33 
+Quads are: 
+[2, 2, 2, 2] 

@@ -23,3 +23,4 @@ Started with arrays 4
 20-02-2024 rotate matrix 90, spiral traversal of matrix, count sub arrys with k sum
 
 21-02-2024 Started with hard section, pascal's triangle, majority element more than n/3
+26-02-2024 three-sum problem, four sum

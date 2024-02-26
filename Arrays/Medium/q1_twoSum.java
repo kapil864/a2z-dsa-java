@@ -1,6 +1,8 @@
 
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Scanner;
 import java.util.Map;
 
@@ -14,7 +16,7 @@ public class q1_twoSum {
             arr[i] = sc.nextInt();
         }
         int sum = sc.nextInt();
-        int[] sol = twoSumBetter(arr, sum);
+        int[] sol = twoSumOptimal(arr, sum);
         System.out.println();
         System.out.println("Index of array are  " + sol[0] + " and " + sol[1] + ".");
         sc.close();
@@ -63,5 +65,30 @@ public class q1_twoSum {
     // increase start and decrease ed
     // till their sum is equal to required sum.
     // and return their indices.
+    private static int[] twoSumOptimal(int[] arr,int sum){
+        int[] sol = { -1, -1 };
+        List<Integer> tempArry = new ArrayList<>();
+        for (int i : arr) {
+            tempArry.add(i);
+        }
+        tempArry.sort(null);
+        int st = 0; 
+        int ed = arr.length-1;
+        while(st<ed){
+            int tempSum = tempArry.get(st) + tempArry.get(ed);
+            if(tempSum < sum ){
+                st++;
+            }
+            else if(tempSum > sum){
+                ed--;
+            }
+            else{
+                sol[0] = tempArry.get(st);
+                sol[1] = tempArry.get(ed);
+                return sol;
+            }
+        }
+        return sol;
+    }
 
 }
