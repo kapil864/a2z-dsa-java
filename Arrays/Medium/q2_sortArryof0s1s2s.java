@@ -69,7 +69,7 @@ public class q2_sortArryof0s1s2s {
     // 2s.
     // problem is a variation of DNF (Dutch national flag algo). trick is to place
     // the 1 pointer to correct position
-    //
+    
     private static void sortOptimal(int[] arr) {
         int len = arr.length;
         int pt0 = 0;
