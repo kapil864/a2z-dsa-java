@@ -25,3 +25,4 @@ Started with arrays 4
 21-02-2024 Started with hard section, pascal's triangle, majority element more than n/3
 26-02-2024 three-sum problem, four sum
 27-02-2024 longest sub-array with sum 0, no of sub-arrays with given XOR.
+28-02-2024 Merge overlapping intervals

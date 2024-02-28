@@ -1,1 +1,1 @@
-Number of sub-arrays is 2
+[1, 6]
