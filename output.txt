@@ -1,1 +1,2 @@
-[1, 6]
+
+Repeating no 3 Missing no: 3

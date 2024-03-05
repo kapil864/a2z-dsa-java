@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
@@ -34,13 +33,10 @@ public class q7_Merge_Overlapping_Sub_intervals {
             public int compare(List<Integer> o1, List<Integer> o2) {
                 if (o1.get(0) == o2.get(0)) {
                     if (o1.get(1) > o2.get(1)) {
-                        return 1;
+                        return o1.get(1) - o2.get(1);
                     }
-                    return -1;
-                } else if (o1.get(0) > o2.get(0)) {
-                    return 1;
                 }
-                return -1;
+                return o1.get(0) - o2.get(0);
             }
 
         });
@@ -74,6 +70,7 @@ public class q7_Merge_Overlapping_Sub_intervals {
     }
 
     // optimal Approach
+    // TC = O(NlogN + N)
     private static List<List<Integer>> mergeIntervalsOptimal(List<List<Integer>> intervals) {
         List<List<Integer>> ans = new ArrayList<>();
         intervals.sort(new Comparator<List<Integer>>() {
@@ -82,13 +79,10 @@ public class q7_Merge_Overlapping_Sub_intervals {
             public int compare(List<Integer> o1, List<Integer> o2) {
                 if (o1.get(0) == o2.get(0)) {
                     if (o1.get(1) > o2.get(1)) {
-                        return 1;
+                        return o1.get(1) - o2.get(1);
                     }
-                    return -1;
-                } else if (o1.get(0) > o2.get(0)) {
-                    return 1;
                 }
-                return -1;
+                return o1.get(0) - o2.get(0);
             }
 
         });
@@ -110,8 +104,9 @@ public class q7_Merge_Overlapping_Sub_intervals {
                     ed = Integer.max(ed, intervals.get(i).get(1));
                 } else {
 
-                    // break the loop since the all intervals are checked and this next interval is not overlapping
-                    idx = i;
+                    // break the loop since the all intervals are checked and this next interval is
+                    // not overlapping\
+                    idx = i - 1;
                     break;
                 }
             }
