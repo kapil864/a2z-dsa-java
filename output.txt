@@ -1,2 +1,1 @@
-
-Repeating no: 3 Missing no: 4
+Total number of inversion are : 9
