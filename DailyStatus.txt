@@ -29,3 +29,6 @@ Started with arrays 4
 05-03-2024 Merge two sorted arrays without extra space,
 07-03-2024 Find missing and Repeating number.
 11-03-2024 Find missing and repeating number.
+12-03-2024 Count inversions in an array.
+13-03-2024 count reverse pairs,
+17-03-2024 maximum product sub-array
