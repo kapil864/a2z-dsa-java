@@ -32,3 +32,5 @@ Started with arrays 4
 12-03-2024 Count inversions in an array.
 13-03-2024 count reverse pairs,
 17-03-2024 maximum product sub-array
+
+19-03-2024 Binary search, upper bound, lower bound 

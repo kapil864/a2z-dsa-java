@@ -1,1 +1,1 @@
-Maximum Product is : 20
+Upper bound of 8 is : 3
