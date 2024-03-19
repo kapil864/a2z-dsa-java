@@ -33,4 +33,4 @@ Started with arrays 4
 13-03-2024 count reverse pairs,
 17-03-2024 maximum product sub-array
 
-19-03-2024 Binary search, upper bound, lower bound 
+19-03-2024 Binary search, upper bound, lower bound, Search insert Position, floor and ceil of a number in array

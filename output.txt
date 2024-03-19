@@ -1,1 +1,4 @@
-Upper bound of 8 is : 3
+For 9 :: 
+Position of 
+Floor is : 3
+Ceil is : 4
