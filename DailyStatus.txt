@@ -36,3 +36,4 @@ Started with arrays 4
 ## Started with binary search
 19-03-2024 Binary search, upper bound, lower bound, Search insert Position, floor and ceil of a number in array
 20-03-2024 first and last occurrence of a number in array
+21-03-2024 Count number of occurrence of a number in a array, Search in rotated sorted array 1,
