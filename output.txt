@@ -1,4 +1,4 @@
-For 9 :: 
+For 8 :: 
 Position of 
-Floor is : 3
-Ceil is : 4
+First occurrence : 2
+Second occurrence : 4
