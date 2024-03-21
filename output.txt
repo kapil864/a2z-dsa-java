@@ -1,1 +1,1 @@
-For 0 :: position is : 3
+Minimum in array is : 1
