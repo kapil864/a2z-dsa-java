@@ -13,7 +13,6 @@ public class q13_peak_element {
         sc.close();
     }
 
-
     // TC = LogN
     // if one condition of or is satisfied then it won't look for other conditions
     private static int getPeakElement(int[] arr) {
@@ -32,6 +31,6 @@ public class q13_peak_element {
             }
         }
         return mid;
-        
+
     }
 }
