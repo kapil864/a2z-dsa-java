@@ -1,1 +1,1 @@
-Minimum in array is : 1
+No of times array is rotated : 2
