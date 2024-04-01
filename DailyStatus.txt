@@ -38,3 +38,5 @@ Started with arrays 4
 20-03-2024 first and last occurrence of a number in array
 21-03-2024 Count number of occurrence of a number in a array, Search in rotated sorted array 1,
 22-03-2024 Search in rotated sorted array with duplicate element, Minimum in Rotated Sorted Array, times an array is rotated
+
+01-04-2024 get single element in a sorted array, Find peak element, find square root of a number

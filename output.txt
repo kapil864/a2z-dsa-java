@@ -1,1 +1,1 @@
-No of times array is rotated : 2
+Single element is: 4
