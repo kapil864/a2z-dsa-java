@@ -1,1 +1,1 @@
-Single element is: 4
+Speed for eating bananas: 4

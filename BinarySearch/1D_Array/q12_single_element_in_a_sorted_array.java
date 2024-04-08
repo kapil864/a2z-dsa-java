@@ -42,7 +42,7 @@ public class q12_single_element_in_a_sorted_array {
             int mid = (st + ed) / 2;
             if (arr[mid - 1] != arr[mid] && arr[mid] != arr[mid + 1]) {
                 return mid;
-            } else if ((mid % 2 == 1 && arr[mid] == arr[mid - 1]) || ((mid - 1) % 2 == 0 && arr[mid] == arr[mid + 1])) {
+            } else if ((mid % 2 == 1 && arr[mid] == arr[mid - 1]) || (mid % 2 == 0 && arr[mid] == arr[mid + 1])) {
                 st = mid + 1;
             } else {
                 ed = mid - 1;
