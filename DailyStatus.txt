@@ -42,3 +42,5 @@ Started with arrays 4
 01-04-2024 get single element in a sorted array, Find peak element, find square root of a number
 08-04-2024 get nth root, koko eating bananas
 27-04-2024 Minimum divisior
+30-04-2024 capacity to ship packages
+01-05-2024 kth missing positive number
