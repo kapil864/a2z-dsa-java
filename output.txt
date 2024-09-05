@@ -1,1 +1,1 @@
-Partition alloted to painters 60
+[3, None]

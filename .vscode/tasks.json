@@ -4,9 +4,8 @@
         {
             "label": "Compile and run",
             "type": "shell",
-            "command": "",
+            "command": "python3",
             "args": [
-                "java",
                 "${relativeFile}",
                 "<",
                 "${workspaceFolder}/input.txt",
@@ -21,10 +20,10 @@
                 "isDefault": true
             },
             "problemMatcher": {
-                "owner": "py",
+                "owner": "python",
                 "fileLocation": [
                     "relative",
-                    "${workspaceRoot}"
+                    "${workspaceFolder}"
                 ],
                 "pattern": {
                     "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",

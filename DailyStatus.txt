@@ -47,3 +47,5 @@ Started with arrays 4
 07-05-2024 aggressive cows
 
 18-06-2024 book allocation, painter's Partition
+
+05-09-2024 bs on 2d arrry, q1 and q2
