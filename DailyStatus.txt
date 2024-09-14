@@ -49,4 +49,5 @@ Started with arrays 4
 18-06-2024 book allocation, painter's Partition
 
 05-09-2024 bs on 2d arrry, q1 and q2
-13-09-2024 bson 2d array, q3 and q4
+13-09-2024 bs on 2d array, q3 and q4
+14-09-2024 stings basic q1-q7
