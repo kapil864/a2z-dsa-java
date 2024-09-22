@@ -52,3 +52,5 @@ Started with arrays 4
 13-09-2024 bs on 2d array, q3 and q4
 14-09-2024 stings basic q1-q7
 19-09-2024 string medium q1-q5
+21-09-2024 string Completed
+22-09-2024 started with linked list
