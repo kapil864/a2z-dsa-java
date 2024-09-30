@@ -2,3 +2,4 @@
 2- Dutch national flag - Arry/Med/q2 - sort 0s,1s and 2s
 3- Moore's voting alogo -Arry/Med/q3 - Majority element
 4- Kadanes algo - Arry/Med/q4 - maximum sum subarray
+5- Tortoise/Hare - Find, mid of lined list

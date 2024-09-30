@@ -54,3 +54,9 @@ Started with arrays 4
 19-09-2024 string medium q1-q5
 21-09-2024 string Completed
 22-09-2024 started with linked list
+23-09-2024 reverse a DLL and intro to double linked list
+24-09-2024 middle of linkedlist, reverse iterative
+25-09-2024 reverse ll recusive
+26-09-2024 detect loop in linkelist, Starting of loop
+27-09-2024 length of loop
+30-09-2024 check-for-palindrome
