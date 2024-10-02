@@ -18,19 +18,33 @@ def isPalindromeBrute(head: Optional[ListNode]) -> bool:
     return True
 
 
+def reverse_list(head: ListNode):
+    pre = None
+    curr = head
+    while curr:
+        temp = curr.next
+        curr.next = pre
+        pre = curr
+        curr = temp
+    return pre
+
 # two pointer approach
 # similar to that of tortoise and hare
 # reverse only the half of linked list and check 
-# def isPalindrome(head: Optional[ListNode]) -> bool:
-#     slow = head
-#     fast = head
-#     li = []
-#     while fast and fast.next:
-#         li.append(slow.val)
-#         fast = fast.next.next
-#         slow = slow.next
-
-    
+def isPalindrome(head: Optional[ListNode]) -> bool:
+    slow = head
+    fast = head
+    while fast and fast.next:
+        slow = slow.next
+        fast = fast.next.next
+    rev_head = reverse_list(slow)
+    rev = rev_head
+    while rev:
+        if head.val != rev.val:
+            return False
+        head = head.next
+        rev = rev.next
+    return True
 
 
 if __name__ == "__main__":
@@ -38,5 +52,4 @@ if __name__ == "__main__":
     head = ListNode(numbers[0])
     for j in range(1, len(numbers)):
         append(head, ListNode(numbers[j]))
-    traversal(head)
     print(isPalindromeBrute(head))
