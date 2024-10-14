@@ -61,3 +61,8 @@ Started with arrays 4
 27-09-2024 length of loop
 30-09-2024 check-for-palindrome
 02-10-2024 check-for-palindrome optimal, odd even linkedlist, remove nth element from last
+03-10-2024 remove middle element from the linked list
+09-10-2024 sort a linked list, merge two sorted linked list
+10-10-2024 sort ll of 012s, find intersertion of two ll
+12-10-2024 add 1 to number in linked list
+14-10-2024 add 2 numbers in form of linked list

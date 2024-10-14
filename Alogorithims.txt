@@ -3,3 +3,4 @@
 3- Moore's voting alogo -Arry/Med/q3 - Majority element
 4- Kadanes algo - Arry/Med/q4 - maximum sum subarray
 5- Tortoise/Hare - Find, mid of lined list
+DSA - Patters : -   https://leetcode.com/discuss/interview-question/5886397/DSA-Patterns-you-need-to-know-!!!
