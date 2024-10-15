@@ -66,3 +66,4 @@ Started with arrays 4
 10-10-2024 sort ll of 012s, find intersertion of two ll
 12-10-2024 add 1 to number in linked list
 14-10-2024 add 2 numbers in form of linked list
+15-10-2024 completed medium problems on doubly linkedlist
