@@ -1,0 +1,74 @@
+04-01-2024  Pattern questions from sheet q1 to q6.
+08-01-2024  Pattern questions from q7 to q18
+09-01-2024  Completed questions from q18 to q22 of patterns. Started BasicMaths done q1-q3
+11-01-2024  Started basic recursion questions
+
+Skipped to next month
+
+Starting with Merging algos
+
+05-02-2024 Revised insertion and selection sort algos
+06-02-2024 Implemented Quicksort, mergesort and resursive insertion, bubble sort.
+
+Started with arrays 4
+07-02-2024 Practiced question Largest element, Second largest element and isSorted arrays. also Practiced a leetcode quetion https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+08-02-2024 Practiced question to remove duplicate elements, and rotating an array.
+10-02-2024 Linear Search, Union of sorted arrays, Find missing number, Max consecutive 1s
+11-02-2024 Did no that appear once
+12-02-2024 length of maximum sub array whose sum is equal to k. (positive & zero integers only) and array with negative integers. Completed easy section.
+13-02-2024 Done two question one with kadane's algo and other with moore's algo
+14-02-2024 Did questions on best time to buy or sell stock, rearrange elemets by sign.
+15-02-2024 next permutation
+16-02-2024 leader elements, longest consecutive sequence, set matrixZero
+20-02-2024 rotate matrix 90, spiral traversal of matrix, count sub arrys with k sum
+
+21-02-2024 Started with hard section, pascal's triangle, majority element more than n/3
+26-02-2024 three-sum problem, four sum
+27-02-2024 longest sub-array with sum 0, no of sub-arrays with given XOR.
+28-02-2024 Merge overlapping intervals
+05-03-2024 Merge two sorted arrays without extra space,
+07-03-2024 Find missing and Repeating number.
+11-03-2024 Find missing and repeating number.
+12-03-2024 Count inversions in an array.
+13-03-2024 count reverse pairs,
+17-03-2024 maximum product sub-array
+
+## Started with binary search
+19-03-2024 Binary search, upper bound, lower bound, Search insert Position, floor and ceil of a number in array
+20-03-2024 first and last occurrence of a number in array
+21-03-2024 Count number of occurrence of a number in a array, Search in rotated sorted array 1,
+22-03-2024 Search in rotated sorted array with duplicate element, Minimum in Rotated Sorted Array, times an array is rotated
+
+01-04-2024 get single element in a sorted array, Find peak element, find square root of a number
+08-04-2024 get nth root, koko eating bananas
+27-04-2024 Minimum divisior
+30-04-2024 capacity to ship packages
+01-05-2024 kth missing positive number
+07-05-2024 aggressive cows
+
+18-06-2024 book allocation, painter's Partition
+
+05-09-2024 bs on 2d arrry, q1 and q2
+13-09-2024 bs on 2d array, q3 and q4
+14-09-2024 stings basic q1-q7
+19-09-2024 string medium q1-q5
+21-09-2024 string Completed
+22-09-2024 started with linked list
+23-09-2024 reverse a DLL and intro to double linked list
+24-09-2024 middle of linkedlist, reverse iterative
+25-09-2024 reverse ll recusive
+26-09-2024 detect loop in linkelist, Starting of loop
+27-09-2024 length of loop
+30-09-2024 check-for-palindrome
+02-10-2024 check-for-palindrome optimal, odd even linkedlist, remove nth element from last
+03-10-2024 remove middle element from the linked list
+09-10-2024 sort a linked list, merge two sorted linked list
+10-10-2024 sort ll of 012s, find intersertion of two ll
+12-10-2024 add 1 to number in linked list
+14-10-2024 add 2 numbers in form of linked list
+15-10-2024 completed medium problems on doubly linkedlist
+19-10-2024 started hard problems:- reverse ll in k groups, rotate linked list
+20-20-2024 flatten a linked list
+17-11-2024 deep copy a linked list, browser history
+
+17-11-2024 Recursion ,q2_ power x raise to n, sort stack using recursion, reverse stack using recursion
