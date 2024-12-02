@@ -74,3 +74,4 @@ Started with arrays 4
 17-11-2024 Recursion ,q2_ power x raise to n, sort stack using recursion, reverse stack using recursion
 18-11-2024 Count good numbers, generate all binary strings
 19-11-2024 generate parenthesis, power set. power set2, subsets with sum k, combination sum
+21-11-2024 

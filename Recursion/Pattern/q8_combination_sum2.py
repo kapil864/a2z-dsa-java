@@ -1,18 +1,19 @@
 from typing import List
+# in this approach the candidates cannot repeat themselves
 
 
 def helper(index, target, candidates, candidate_combination, ans):
     if index < 0:
         return
+    if target < 0:
+        return
     if target == 0:
         ans.append(candidate_combination)
         return
 
-    if target < 0:
-        return
     candidate_combination1 = candidate_combination.copy()
     candidate_combination1.append(candidates[index])
-    helper(index, target-candidates[index],
+    helper(index-1, target-candidates[index],
            candidates, candidate_combination1, ans)
     helper(index-1, target, candidates, candidate_combination, ans)
 
