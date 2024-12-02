@@ -1,1 +1,1 @@
-[[1, 1, 6], [1, 2, 5], [1, 7], [2, 6]]
+['aaa', 'baa', 'caa', 'aba', 'bba', 'cba', 'aca', 'bca', 'cca', 'aab', 'bab', 'cab', 'abb', 'bbb', 'cbb', 'acb', 'bcb', 'ccb', 'aac', 'bac', 'cac', 'abc', 'bbc', 'cbc', 'acc', 'bcc', 'ccc']
