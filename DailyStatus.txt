@@ -75,3 +75,6 @@ Started with arrays 4
 18-11-2024 Count good numbers, generate all binary strings
 19-11-2024 generate parenthesis, power set. power set2, subsets with sum k, combination sum
 02-12-2024 combination sum 2, subset sums and it's variation, combination sum 3, letter combination
+03-12-2024 palindormic partitioning
+04-12-2024 word Search
+05-12-2024 n-queens
