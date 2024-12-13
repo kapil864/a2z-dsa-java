@@ -80,3 +80,4 @@ Started with arrays 4
 05-12-2024 n-queens
 07-12-2024 graphs introduction, bfs
 08-12-2024 dfs, no_of_provinces, rotten oranges
+13-12-2024 trees, traversal techniques in trees
